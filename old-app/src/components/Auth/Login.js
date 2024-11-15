@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { alignPropType } from "react-bootstrap/esm/types";
 import { useNavigate } from "react-router-dom"
-// import api from 
+/* import api from */
 
-// This is to allow the user to login
+/* This is to allow the user to login */
 const Login = () => {
     const [username, setUsername] = useState('');
     const [passaword, setPassword] = useState('');
